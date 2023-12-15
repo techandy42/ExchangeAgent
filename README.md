@@ -30,5 +30,5 @@ Sample Trading History (PPO-200K):
 
 > Decision Transformer
 
-- The decision transformer from the paper Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/abs/2106.01345) was also trained on the collected trajectories from the PPO-200K model (offline RL policy).
+- The decision transformer from the paper [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/abs/2106.01345) was also trained on the collected trajectories from the PPO-200K model (offline RL policy).
 - However, the decision transformer failed to converge, due to the small observation space of the time-series environment, as well as the model not converging easily on discrete action space.
