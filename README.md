@@ -1,2 +1,2 @@
-# ExchangeRL
+# ExchangeAgent
 Training a stock exchange agent with Reinforcement Learning algorithms and Decision Transformer.
