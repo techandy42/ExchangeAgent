@@ -23,4 +23,9 @@ Performance Comparison between Models:
   <img src="./data/random-ppo-200-500-1000-steps-comparison-chart.png" alt="random-ppo-200-500-1000-steps-comparison-chart.png" width="400"/>
 </p>
 
+Sample Trading History (PPO-200K):
+<p align="center">
+  <img src="./data/ppo-200-stock-exchange-graph.png" alt="ppo-200-stock-exchange-graph.png" width="600"/>
+</p>
+
 > Decision Transformer
