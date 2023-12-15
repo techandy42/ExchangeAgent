@@ -15,12 +15,12 @@ Training a stock exchange agent with Reinforcement Learning algorithms and Decis
 
 Performance Comparison between Models:
 <p align="center">
-  <img src="./data/random-a2c-25-50-100-steps-comparison-chart.png" alt="random-a2c-25-50-100-steps-comparison-chart.png" width="500"/>
-  <img src="./data/random-a2c-200-500-1000-steps-comparison-chart.png" alt="random-a2c-200-500-1000-steps-comparison-chart.png" width="500"/>
+  <img src="./data/random-a2c-25-50-100-steps-comparison-chart.png" alt="random-a2c-25-50-100-steps-comparison-chart.png" width="400"/>
+  <img src="./data/random-a2c-200-500-1000-steps-comparison-chart.png" alt="random-a2c-200-500-1000-steps-comparison-chart.png" width="400"/>
 </p>
 <p align="center">
-  <img src="./data/random-ppo-25-50-100-steps-comparison-chart.png" alt="random-ppo-25-50-100-steps-comparison-chart.png" width="500"/>
-  <img src="./data/random-ppo-200-500-1000-steps-comparison-chart.png" alt="random-ppo-200-500-1000-steps-comparison-chart.png" width="500"/>
+  <img src="./data/random-ppo-25-50-100-steps-comparison-chart.png" alt="random-ppo-25-50-100-steps-comparison-chart.png" width="400"/>
+  <img src="./data/random-ppo-200-500-1000-steps-comparison-chart.png" alt="random-ppo-200-500-1000-steps-comparison-chart.png" width="400"/>
 </p>
 
 > Decision Transformer
